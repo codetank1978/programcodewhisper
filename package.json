@@ -1,0 +1,34 @@
+{
+  "name": "programcodewhisper",
+  "version": "1.0.2",
+  "description": "programcodewhisper",
+  "type": "module",
+  "main": "programcodewhisper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burdens2020/programcodewhisper"
+  },
+  "website": "https://github.com/huxleyaz1989/programcodewhisper.git",
+  "keywords": [
+    "programcodewhisper"
+  ],
+  "author": "huxleyaz1989",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huxleyaz1989/programcodewhisper/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/huxleyaz1989/programcodewhisper#readme",
+  "dependencies": {
+    "codecraftsavvy": "1.0.2",
+    "devcodecraftguru": "1.0.2",
+    "programcraftpro": "1.0.2",
+    "codescriptguru": "1.0.2"
+  }
+}
